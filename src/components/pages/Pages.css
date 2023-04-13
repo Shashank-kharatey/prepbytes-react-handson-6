@@ -1,0 +1,30 @@
+.student-table{
+    color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid blue;
+    margin-top: 1em;
+    font-size: 1.5rem;
+    padding: 0.4em;
+}
+.student-table div{
+    width: 20%;
+}
+.student-table div a{
+    color: blue;
+}
+#stu-btn{
+    float: right;
+}
+#stu-btn a{
+    color: blue;
+    font-size: 1.5em;
+}
+#del-btn{
+    border: 0px;
+    font-size: 1em;
+    color: skyblue;
+    background: red;
+    border-radius: 0.4em;
+}

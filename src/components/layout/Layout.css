@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-flex{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+    padding: 1rem;
+}
+
+.navbar-flex ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: auto;
+}
+.navbar-flex ul li{
+    margin-left: 10rem;
+    font-size: 2rem;
+    font-style: italic;
+}
+a{
+   text-decoration: none;
+   color: white; 
+}
