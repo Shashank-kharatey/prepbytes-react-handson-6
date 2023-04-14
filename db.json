@@ -1,0 +1,67 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Leanne Graham",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "id": 2,
+        "name": "Ervin Howell",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "id": 9,
+        "name": "Glenna Reichert",
+        "age": "25",
+        "course": "mern",
+        "batch": "sept"
+      },
+      {
+        "name": "hello bro",
+        "age": "12",
+        "course": "asdfg",
+        "batch": "fdsa",
+        "id": 10
+      }
+    ]
+  }
